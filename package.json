@@ -1,0 +1,19 @@
+{
+  "name": "rsa-test",
+  "version": "1.0.0",
+  "description": "RSA Test for ISM ASE course work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codepadawan93/rsa-test.git"
+  },
+  "author": "erik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codepadawan93/rsa-test/issues"
+  },
+  "homepage": "https://github.com/codepadawan93/rsa-test#readme"
+}
